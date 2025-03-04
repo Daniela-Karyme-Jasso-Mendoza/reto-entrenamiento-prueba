@@ -1,7 +1,7 @@
 # reto-regresion-lineal-multiple
 ## Descripción 📝
 
-Aplicar la técnica de división del dataset en entrenamiento y prueba para entrenar un modelo de Regresión Linear Múltiple utilizando las librerias pandas, matplotlib, seaborn y Scikit-Learn.
+Aplicar la técnica de división del dataset en entrenamiento y prueba para entrenar un modelo de Regresión Lineal Múltiple utilizando las librerias pandas, matplotlib, seaborn y Scikit-Learn.
 
 ## Autor ✏️
 **Daniela Karyme Jasso Mendoza**
